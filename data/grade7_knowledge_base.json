@@ -1,0 +1,3014 @@
+{
+  "grade": "7",
+  "concepts": [
+    {
+      "concept_name": "Scientific Inquiry",
+      "domain": "Scientific Inquiry & Investigative Process",
+      "strand": "The Investigative World",
+      "brief_explanation": "Scientific inquiry is a way of thinking and learning about the natural world that involves asking questions, making observations, performing experiments, and being open to the unknown.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The Ever-Evolving World of Science"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": []
+    },
+    {
+      "concept_name": "Acid",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "An acid is a substance that typically tastes sour, turns blue litmus paper red, and can be found in many common foods like lemons and vinegar.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals",
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Base",
+        "Neutralisation",
+        "Acid-Base Indicator"
+      ]
+    },
+    {
+      "concept_name": "Base",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A base is a substance that typically tastes bitter, feels soapy to the touch, and turns red litmus paper blue. Examples include soap solution and baking soda solution.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals",
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Acid",
+        "Neutralisation",
+        "Acid-Base Indicator"
+      ]
+    },
+    {
+      "concept_name": "Neutral Substance",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A neutral substance is one that is neither acidic nor basic and does not cause a color change in acid-base indicators like litmus paper. Examples include pure water, sugar solution, and salt solution.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Acid",
+        "Base"
+      ]
+    },
+    {
+      "concept_name": "Acid-Base Indicator",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "An acid-base indicator is a substance that shows different colors in acidic and basic solutions, allowing for the identification of the nature of a substance.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Litmus",
+        "Natural Indicator",
+        "Olfactory Indicator"
+      ]
+    },
+    {
+      "concept_name": "Litmus",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "Litmus is a natural dye extracted from lichens, used as an acid-base indicator. It is available as a solution or on paper strips that turn red in acids and blue in bases.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Acid-Base Indicator"
+      ]
+    },
+    {
+      "concept_name": "Natural Indicator",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "Natural indicators are substances derived from plants, such as turmeric, red rose petals, or red cabbage, that can be used to test for acids and bases.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Acid-Base Indicator"
+      ]
+    },
+    {
+      "concept_name": "Olfactory Indicator",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "An olfactory indicator is a substance whose odor changes depending on whether it is mixed with an acidic or basic solution. Onion is an example of an olfactory indicator.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Acid-Base Indicator"
+      ]
+    },
+    {
+      "concept_name": "Neutralisation Reaction",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "Neutralisation is a chemical reaction in which an acid and a base react with each other to form salt and water, often with the evolution of heat. The resulting solution is neutral.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Acid",
+        "Base",
+        "Salt"
+      ]
+    },
+    {
+      "concept_name": "Salt",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A salt is a substance formed, along with water, during a neutralisation reaction between an acid and a base.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Exploring Substances: Acidic, Basic, and Neutral"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Neutralisation"
+      ]
+    },
+    {
+      "concept_name": "Electric Cell",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An electric cell is a portable source of electrical energy that has two terminals: a positive terminal (+) and a negative terminal (-).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Battery",
+        "Electric Circuit"
+      ]
+    },
+    {
+      "concept_name": "Battery",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "A battery is a combination of two or more electric cells connected in series (positive terminal of one cell to the negative terminal of the next) to provide electrical energy.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Electric Cell"
+      ]
+    },
+    {
+      "concept_name": "Electric Lamp (Incandescent)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An incandescent electric lamp is a device that produces light when electric current passes through its thin wire, called a filament, causing it to heat up and glow.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Electric Circuit",
+        "Electric Current"
+      ]
+    },
+    {
+      "concept_name": "LED (Light Emitting Diode)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "A Light Emitting Diode (LED) is a type of electric lamp that emits light when current flows through it in only one specific direction. It has two terminals, a longer positive one and a shorter negative one.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Electric Circuit",
+        "Electric Current"
+      ]
+    },
+    {
+      "concept_name": "Electric Circuit",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An electric circuit is a complete, unbroken path through which electric current can flow from a source (like a cell or battery), through components (like a lamp), and back to the source.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Electric Cell",
+        "Electric Current",
+        "Conductor (Electrical)",
+        "Insulator (Electrical)",
+        "Electric Switch"
+      ]
+    },
+    {
+      "concept_name": "Electric Switch",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An electric switch is a simple device used to either complete ('ON' position, closed circuit) or break ('OFF' position, open circuit) an electrical circuit, thereby controlling the flow of current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Electric Circuit"
+      ]
+    },
+    {
+      "concept_name": "Electric Current",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "Electric current is the flow of electric charge through a circuit. By convention, its direction is taken from the positive terminal to the negative terminal of the electric cell.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Electric Circuit",
+        "Conductor (Electrical)"
+      ]
+    },
+    {
+      "concept_name": "Conductor (Electrical)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An electrical conductor is a material that allows electric current to pass through it easily. Metals like copper and aluminum are good conductors.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components",
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Insulator (Electrical)",
+        "Electric Current",
+        "Electric Circuit"
+      ]
+    },
+    {
+      "concept_name": "Insulator (Electrical)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "An electrical insulator is a material that does not allow electric current to pass through it. Materials like plastic, rubber, and wood are insulators.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Conductor (Electrical)",
+        "Electric Circuit"
+      ]
+    },
+    {
+      "concept_name": "Circuit Diagram",
+      "domain": "Physics (The Physical World)",
+      "strand": "Electricity & Magnetism",
+      "brief_explanation": "A circuit diagram is a simplified representation of an electrical circuit using standard symbols for its components, such as the cell, battery, lamp, and switch.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Electricity: Circuits and their Components"
+      ],
+      "concept_type": "model",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Electric Circuit",
+        "Electric Cell",
+        "Battery",
+        "Electric Switch"
+      ]
+    },
+    {
+      "concept_name": "Metal",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A class of elements that are typically hard, lustrous, malleable, ductile, sonorous, and good conductors of heat and electricity.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Non-metal",
+        "Malleability",
+        "Ductility",
+        "Sonority",
+        "Thermal Conduction",
+        "Conductor (Electrical)",
+        "Metal Oxides"
+      ]
+    },
+    {
+      "concept_name": "Non-metal",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A class of elements that are generally soft, dull in appearance, brittle, not sonorous, and are poor conductors of heat and electricity.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Metal",
+        "Non-metal Oxides"
+      ]
+    },
+    {
+      "concept_name": "Malleability",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A physical property of materials, especially metals, that allows them to be hammered or pressed into thin sheets without breaking.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Ductility",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "A physical property of materials, especially metals, that allows them to be drawn into thin wires.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Sonority",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Substances & Their Properties",
+      "brief_explanation": "The property of metals to produce a characteristic ringing sound when struck.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Thermal Conduction",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The transfer of heat from one point to another within a material. Metals are good thermal conductors, while materials like wood are poor conductors.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Rusting",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "The process of formation of a brown, flaky substance (rust or iron oxide) on the surface of iron when it is exposed to both air (oxygen) and water. It is a type of chemical change.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals",
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Corrosion",
+        "Chemical Change",
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Corrosion",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "The gradual deterioration of metal surfaces caused by chemical reactions with substances in the environment, such as air and water. Rusting of iron is a common example of corrosion.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Rusting",
+        "Metal"
+      ]
+    },
+    {
+      "concept_name": "Metal Oxides",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "Compounds formed when metals react with oxygen. The solutions of metal oxides are generally basic in nature.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Metal",
+        "Base",
+        "Chemical Reaction"
+      ]
+    },
+    {
+      "concept_name": "Non-metal Oxides",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "Compounds formed when non-metals react with oxygen. The solutions of non-metal oxides are generally acidic in nature.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Non-metal",
+        "Acid",
+        "Chemical Reaction"
+      ]
+    },
+    {
+      "concept_name": "Element",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Nature of Matter",
+      "brief_explanation": "A pure substance that cannot be broken down into simpler substances by chemical means. Metals and non-metals are categories of elements.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "The World of Metals and Non-metals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Metal",
+        "Non-metal"
+      ]
+    },
+    {
+      "concept_name": "Physical Change",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A change in which only the physical properties of a substance, such as shape, size, or state, are altered, and no new substance is formed.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Chemical Change",
+        "Reversible Change"
+      ]
+    },
+    {
+      "concept_name": "Chemical Change",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A change in which one or more new substances with different properties are formed. It is the result of a chemical reaction and is often irreversible.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Physical Change",
+        "Chemical Reaction",
+        "Irreversible Change",
+        "Rusting",
+        "Combustion"
+      ]
+    },
+    {
+      "concept_name": "Chemical Reaction",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A process that leads to the chemical transformation of one set of chemical substances to another, resulting in the formation of new substances.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Chemical Change"
+      ]
+    },
+    {
+      "concept_name": "Combustion",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A chemical reaction in which a substance reacts rapidly with an oxidant, usually oxygen, to produce heat and light.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Chemical Change",
+        "Fuel (Combustible Substance)",
+        "Ignition Temperature"
+      ]
+    },
+    {
+      "concept_name": "Combustible Substance (Fuel)",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A substance that can undergo combustion. It is also known as a fuel.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Combustion"
+      ]
+    },
+    {
+      "concept_name": "Ignition Temperature",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "The minimum temperature to which a substance must be heated before it can ignite and undergo combustion.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Combustion"
+      ]
+    },
+    {
+      "concept_name": "Reversible Change",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A change that can be undone or reversed to bring the substance back to its original state. Many physical changes are reversible.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Physical Change",
+        "Irreversible Change"
+      ]
+    },
+    {
+      "concept_name": "Irreversible Change",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Chemical & Physical Changes",
+      "brief_explanation": "A change that cannot be undone or reversed to get back the original substance. Most chemical changes are irreversible.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Chemical Change",
+        "Reversible Change"
+      ]
+    },
+    {
+      "concept_name": "Weathering",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "The process of breaking down rocks into smaller pieces (sediments) through physical and chemical means, such as temperature changes and reactions with water.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Erosion",
+        "Physical Change",
+        "Chemical Change"
+      ]
+    },
+    {
+      "concept_name": "Erosion",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "A physical process where weathered rock and soil are moved from one location to another by natural forces like wind and flowing water.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Changes Around Us: Physical and Chemical"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Weathering",
+        "Physical Change"
+      ]
+    },
+    {
+      "concept_name": "Adolescence",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "The transitional period of physical and psychological development between childhood and adulthood, typically occurring from ages 10 to 19.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Puberty",
+        "Secondary Sexual Characteristics",
+        "Hormones"
+      ]
+    },
+    {
+      "concept_name": "Puberty",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "The stage of development during adolescence when an individual's body undergoes changes to become capable of reproduction.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Adolescence",
+        "Secondary Sexual Characteristics",
+        "Menstrual Cycle (Menstruation)"
+      ]
+    },
+    {
+      "concept_name": "Secondary Sexual Characteristics",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "Physical features that develop during puberty which distinguish between males and females but are not directly part of the reproductive system.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Adolescence",
+        "Puberty"
+      ]
+    },
+    {
+      "concept_name": "Menstrual Cycle (Menstruation)",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "A natural process in adolescent girls and women, marked by the monthly discharge of blood from the uterus, which signals the onset of reproductive capability.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Puberty",
+        "Personal Hygiene"
+      ]
+    },
+    {
+      "concept_name": "Hormones",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "Chemical substances produced in the body that act as messengers, controlling and regulating the activity of certain cells or organs, including the changes during adolescence.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Adolescence"
+      ]
+    },
+    {
+      "concept_name": "Nutritional Needs in Adolescence",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "The requirement for a balanced and nutritious diet during adolescence to support rapid growth, development, and overall well-being.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "principle",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Adolescence"
+      ]
+    },
+    {
+      "concept_name": "Personal Hygiene",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "The practice of maintaining cleanliness of the body to promote health and prevent the spread of diseases, which is especially important during adolescence.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "principle",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Adolescence",
+        "Menstrual Cycle (Menstruation)"
+      ]
+    },
+    {
+      "concept_name": "Substance Abuse",
+      "domain": "Biology (The Living World)",
+      "strand": "Health & Adolescence",
+      "brief_explanation": "The harmful or hazardous use of psychoactive substances, including alcohol and illegal drugs, which can lead to addiction and serious health problems.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Adolescence: A Stage of Growth and Change"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Adolescence"
+      ]
+    },
+    {
+      "concept_name": "Heat Transfer",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The movement of thermal energy from a hotter object or region to a colder one. Heat can be transferred through three primary processes: conduction, convection, and radiation.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Conduction",
+        "Convection",
+        "Radiation"
+      ]
+    },
+    {
+      "concept_name": "Conduction",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer from the hotter part of an object to the colder part without the actual movement of particles. This is the primary mode of heat transfer in solids.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer",
+        "Conductor (Thermal)",
+        "Insulator (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Convection",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer in liquids and gases that occurs through the actual movement of heated particles. Warmer, less dense fluid rises, and cooler, denser fluid sinks, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer",
+        "Land Breeze",
+        "Sea Breeze"
+      ]
+    },
+    {
+      "concept_name": "Radiation",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer that does not require a medium and can travel through a vacuum. The Earth receives heat from the Sun through radiation.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer"
+      ]
+    },
+    {
+      "concept_name": "Conductor (Thermal)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A material that allows heat to pass through it easily. Metals are generally good conductors of heat.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Conduction",
+        "Insulator (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Insulator (Thermal)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A material that does not allow heat to pass through it easily. Materials like wood, glass, air, and plastic are poor conductors or insulators of heat.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Conduction",
+        "Conductor (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Sea Breeze",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A local wind that blows from the sea towards the land during the day. It is caused by the land heating up faster than the sea, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Convection",
+        "Land Breeze"
+      ]
+    },
+    {
+      "concept_name": "Land Breeze",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A local wind that blows from the land towards the sea during the night. It is caused by the land cooling down faster than the sea, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Convection",
+        "Sea Breeze"
+      ]
+    },
+    {
+      "concept_name": "Water Cycle",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "The continuous movement of water on, above, and below the surface of the Earth, involving processes like evaporation, condensation, precipitation, and infiltration.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Infiltration"
+      ]
+    },
+    {
+      "concept_name": "Infiltration",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "The process by which surface water seeps through soil and rocks to become groundwater.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Water Cycle",
+        "Groundwater"
+      ]
+    },
+    {
+      "concept_name": "Groundwater",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "Water that is stored in the pore spaces of sediments and openings in rocks beneath the Earth's surface.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Infiltration",
+        "Aquifer"
+      ]
+    },
+    {
+      "concept_name": "Aquifer",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "An underground layer of water-bearing permeable rock, rock fractures or unconsolidated materials (gravel, sand, or silt) from which groundwater can be extracted.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Groundwater"
+      ]
+    },
+    {
+      "concept_name": "Time Measurement",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The process of quantifying the duration between events, using natural cycles (like sunrise) or devices that exhibit periodic motion (like pendulums or quartz crystals).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Simple Pendulum",
+        "SI Unit of Time"
+      ]
+    },
+    {
+      "concept_name": "Simple Pendulum",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "A device consisting of a mass (bob) suspended from a fixed point by a string or rod, which swings back and forth under the influence of gravity. Its time period is constant for a given length.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Oscillatory Motion",
+        "Time Period"
+      ]
+    },
+    {
+      "concept_name": "Oscillatory Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "A type of periodic motion where an object moves back and forth repeatedly over the same path, such as the swinging of a pendulum.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Simple Pendulum",
+        "Time Period"
+      ]
+    },
+    {
+      "concept_name": "Time Period",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The time taken by a pendulum to complete one full oscillation. For a simple pendulum, this depends on its length but not its mass.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Simple Pendulum",
+        "Oscillatory Motion"
+      ]
+    },
+    {
+      "concept_name": "SI Unit of Time",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The standard international unit for measuring time is the second, with the symbol 's'. Larger units include the minute (min) and hour (h).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Time Measurement",
+        "Speed"
+      ]
+    },
+    {
+      "concept_name": "Speed",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The measure of how fast an object is moving, calculated as the total distance covered divided by the total time taken. The SI unit for speed is meters per second (m/s).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Average Speed",
+        "Uniform Motion",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Average Speed",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The total distance traveled by an object divided by the total time taken. This is used because objects often do not travel at a constant speed.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Uniform Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "Motion of an object along a straight line with a constant, unchanging speed. An object in uniform motion covers equal distances in equal intervals of time.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Non-uniform Motion",
+        "Linear Motion"
+      ]
+    },
+    {
+      "concept_name": "Non-uniform Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "Motion of an object along a straight line where its speed keeps changing. An object in non-uniform motion covers unequal distances in equal intervals of time.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Uniform Motion",
+        "Linear Motion"
+      ]
+    },
+    {
+      "concept_name": "Linear Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The movement of an object along a straight line or path.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Uniform Motion",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Life Processes",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The essential biological processes that all living organisms perform to maintain life, such as nutrition, respiration, excretion, and reproduction.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Nutrition in Animals",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process by which animals obtain and utilize food to get energy for growth, repair, and other life functions. It involves ingestion, digestion, absorption, assimilation, and egestion.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Digestion",
+        "Absorption of Nutrients",
+        "Egestion"
+      ]
+    },
+    {
+      "concept_name": "Human Digestive System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The organ system responsible for breaking down food into nutrients. It consists of the alimentary canal (mouth, oesophagus, stomach, intestines) and associated glands (liver, pancreas).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Alimentary Canal",
+        "Digestion"
+      ]
+    },
+    {
+      "concept_name": "Alimentary Canal",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The long, continuous tube in the digestive system through which food passes, starting from the mouth and ending at the anus.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Human Digestive System"
+      ]
+    },
+    {
+      "concept_name": "Digestion",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process of breaking down complex food components (like starch and proteins) into simpler, soluble forms that can be absorbed by the body.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Human Digestive System"
+      ]
+    },
+    {
+      "concept_name": "Absorption of Nutrients",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process where digested nutrients pass from the small intestine into the bloodstream to be transported to different parts of the body.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Circulatory System"
+      ]
+    },
+    {
+      "concept_name": "Egestion",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process of discharging undigested or waste material (stool) from the body through the anus.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Nutrition in Animals"
+      ]
+    },
+    {
+      "concept_name": "Ruminant",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "Grass-eating animals like cows and buffaloes that have a specialized digestive system allowing them to partially digest food, regurgitate it (cud), and chew it again.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Rumination"
+      ]
+    },
+    {
+      "concept_name": "Rumination",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process in ruminants where partially digested food is brought back from the stomach to the mouth for further chewing.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Ruminant"
+      ]
+    },
+    {
+      "concept_name": "Respiration",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "A chemical process occurring inside the body's cells where simple food substances like glucose are broken down using oxygen to release energy, water, and carbon dioxide.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals",
+        "Life Processes in Plants"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Breathing",
+        "Human Respiratory System"
+      ]
+    },
+    {
+      "concept_name": "Breathing",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The physical process of inhaling air (rich in oxygen) into the lungs and exhaling air (rich in carbon dioxide) out of the lungs.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Respiration",
+        "Human Respiratory System"
+      ]
+    },
+    {
+      "concept_name": "Human Respiratory System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The network of organs and tissues that enable breathing, including the nostrils, windpipe, lungs, and diaphragm. It facilitates the exchange of oxygen and carbon dioxide.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Breathing",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Gills",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "Specialized respiratory organs found in most aquatic animals, like fish, that allow them to breathe by extracting dissolved oxygen from water.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Circulatory System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The system responsible for transporting nutrients, oxygen, and other substances to all parts of the body and carrying away waste products. It includes the heart, blood, and blood vessels.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Absorption of Nutrients",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Photosynthesis",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process by which green plants use sunlight, water, and carbon dioxide to create their own food in the form of glucose (a simple carbohydrate) and release oxygen as a byproduct.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Chlorophyll",
+        "Stomata",
+        "Respiration",
+        "Xylem",
+        "Phloem"
+      ]
+    },
+    {
+      "concept_name": "Chlorophyll",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The green pigment found in the leaves and other green parts of plants that is essential for photosynthesis as it absorbs energy from sunlight.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Photosynthesis"
+      ]
+    },
+    {
+      "concept_name": "Starch",
+      "domain": "Chemistry (The World of Matter)",
+      "strand": "Nature of Matter",
+      "brief_explanation": "A complex carbohydrate that serves as the primary form of stored food in plants, produced from glucose made during photosynthesis. Its presence can be detected using an iodine test.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Photosynthesis"
+      ]
+    },
+    {
+      "concept_name": "Stomata",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "Tiny pores, typically on the surface of leaves, that allow for the exchange of gases like carbon dioxide and oxygen between the plant and the atmosphere during photosynthesis and respiration.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Photosynthesis",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Transport in Plants",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The movement of water, minerals, and food throughout the plant. This is carried out by specialized vascular tissues called xylem and phloem.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Xylem",
+        "Phloem"
+      ]
+    },
+    {
+      "concept_name": "Xylem",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "A type of transport tissue in plants that forms a network of tubes to carry water and dissolved minerals from the roots up to the leaves and other parts of the plant.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Transport in Plants"
+      ]
+    },
+    {
+      "concept_name": "Phloem",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "A type of transport tissue in plants that carries food (glucose) produced during photosynthesis from the leaves to all other parts of the plant for energy or storage.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Plants"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Transport in Plants",
+        "Photosynthesis"
+      ]
+    },
+    {
+      "concept_name": "Luminous Object",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "An object that produces and emits its own light, such as the Sun, stars, or a lit candle.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Non-luminous Object"
+      ]
+    },
+    {
+      "concept_name": "Non-luminous Object",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "An object that does not produce its own light but becomes visible by reflecting light from a luminous source, such as the Moon or a book.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Luminous Object",
+        "Reflection of Light"
+      ]
+    },
+    {
+      "concept_name": "Rectilinear Propagation of Light",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "The principle that light travels in a straight line in a uniform medium. This property is responsible for the formation of shadows.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "principle",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Shadow",
+        "Pinhole Camera"
+      ]
+    },
+    {
+      "concept_name": "Transparent Material",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A material that allows light to pass through it almost completely, enabling clear vision of objects on the other side.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Translucent Material",
+        "Opaque Material"
+      ]
+    },
+    {
+      "concept_name": "Translucent Material",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A material that allows some light to pass through it, but scatters the light, so objects on the other side are not clearly visible.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Transparent Material",
+        "Opaque Material"
+      ]
+    },
+    {
+      "concept_name": "Opaque Material",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A material that does not allow any light to pass through it, and as a result, forms a distinct shadow.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Transparent Material",
+        "Translucent Material",
+        "Shadow"
+      ]
+    },
+    {
+      "concept_name": "Shadow",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A dark area or shape produced by an opaque object blocking the path of light from a light source.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Opaque Material",
+        "Rectilinear Propagation of Light"
+      ]
+    },
+    {
+      "concept_name": "Reflection of Light",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "The phenomenon of light bouncing off a surface, such as a mirror, which changes its direction of travel.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Plane Mirror",
+        "Image Formation (by Plane Mirror)"
+      ]
+    },
+    {
+      "concept_name": "Plane Mirror",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A mirror with a flat, reflective surface that forms a virtual image.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Reflection of Light",
+        "Image Formation (by Plane Mirror)"
+      ]
+    },
+    {
+      "concept_name": "Image Formation (by Plane Mirror)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "The process by which a plane mirror forms an image that is erect, of the same size as the object, and laterally inverted. The image is formed as far behind the mirror as the object is in front of it.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Plane Mirror",
+        "Reflection of Light",
+        "Lateral Inversion"
+      ]
+    },
+    {
+      "concept_name": "Lateral Inversion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "The perceived left-right reversal of an image formed by a plane mirror.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Image Formation (by Plane Mirror)"
+      ]
+    },
+    {
+      "concept_name": "Pinhole Camera",
+      "domain": "Physics (The Physical World)",
+      "strand": "Light",
+      "brief_explanation": "A simple optical device that forms an inverted image of an object on a screen by allowing light to pass through a very small aperture (pinhole), demonstrating the rectilinear propagation of light.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Light: Shadows and Reflections"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Rectilinear Propagation of Light"
+      ]
+    },
+    {
+      "concept_name": "Rotation of Earth",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The spinning of the Earth on its own axis, which completes one rotation in about 24 hours and causes the cycle of day and night and the apparent motion of celestial objects.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Revolution of Earth",
+        "Day and Night Cycle"
+      ]
+    },
+    {
+      "concept_name": "Revolution of Earth",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The movement of the Earth in a fixed path (orbit) around the Sun, which takes approximately 365.25 days to complete and, along with the axial tilt, is responsible for the cycle of seasons.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Rotation of Earth",
+        "Seasons"
+      ]
+    },
+    {
+      "concept_name": "Day and Night Cycle",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The regular cycle of daylight and darkness experienced on Earth, caused by the planet's rotation on its axis.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Rotation of Earth"
+      ]
+    },
+    {
+      "concept_name": "Seasons",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The distinct periods of the year (spring, summer, autumn, winter) caused by the tilt of the Earth's axis of rotation in relation to its orbit around the Sun.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "analyze",
+      "interconnections": [
+        "Revolution of Earth",
+        "Tilt of Earth's Axis"
+      ]
+    },
+    {
+      "concept_name": "Tilt of Earth's Axis",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The inclination of the Earth's axis of rotation relative to its orbital plane. This tilt is the primary cause of the seasons.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "principle",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Seasons",
+        "Revolution of Earth"
+      ]
+    },
+    {
+      "concept_name": "Eclipse",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "An astronomical event that occurs when one celestial body is temporarily obscured by either passing into the shadow of another body or having another body pass between it and the viewer.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Solar Eclipse",
+        "Lunar Eclipse"
+      ]
+    },
+    {
+      "concept_name": "Solar Eclipse",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "An eclipse that occurs when the Moon passes between the Sun and Earth, and the Moon fully or partially blocks the Sun's light as viewed from Earth.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Eclipse",
+        "Lunar Eclipse"
+      ]
+    },
+    {
+      "concept_name": "Lunar Eclipse",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "An eclipse that occurs when the Moon passes directly behind Earth and into its shadow. This can occur only when the Sun, Earth, and Moon are exactly or very closely aligned.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Earth, Moon, and the Sun"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Eclipse",
+        "Solar Eclipse"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "activity_name": "Question the Answer",
+      "parent_concept": "Scientific Inquiry",
+      "learning_goal": "To practice asking creative and curious questions, which is a fundamental part of the scientific process.",
+      "activity_type": "discussion"
+    },
+    {
+      "activity_name": "Testing substances with litmus paper",
+      "parent_concept": "Litmus",
+      "learning_goal": "To use blue and red litmus paper to test various common household solutions and classify them as acidic, basic, or neutral based on color changes.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Preparing and using red rose extract as an indicator",
+      "parent_concept": "Natural Indicator",
+      "learning_goal": "To prepare an acid-base indicator from red rose petals and use it to test the nature of different substances.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Preparing and using turmeric paper as an indicator",
+      "parent_concept": "Natural Indicator",
+      "learning_goal": "To create turmeric paper and use it to identify basic substances, observing that it turns red in bases but remains yellow in acidic and neutral substances.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Investigating onion as an olfactory indicator",
+      "parent_concept": "Olfactory Indicator",
+      "learning_goal": "To investigate how the odor of onion changes when exposed to acidic and basic substances, demonstrating the concept of an olfactory indicator.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Observing a neutralisation reaction",
+      "parent_concept": "Neutralisation Reaction",
+      "learning_goal": "To observe the process of neutralisation by mixing an acid (lemon juice) and a base (lime water) and using an indicator to see the solution change from acidic to neutral/basic.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Making a lamp glow with a cell",
+      "parent_concept": "Electric Circuit",
+      "learning_goal": "To construct a simple closed electrical circuit using a cell, wires, and a lamp, and to understand the conditions required for the lamp to glow.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Arranging cells to form a battery",
+      "parent_concept": "Battery",
+      "learning_goal": "To understand the correct way to combine multiple cells to form a battery by connecting the positive terminal of one cell to the negative terminal of the next.",
+      "activity_type": "observation"
+    },
+    {
+      "activity_name": "Making an LED glow",
+      "parent_concept": "LED (Light Emitting Diode)",
+      "learning_goal": "To correctly connect an LED in a circuit, demonstrating that it only allows current to flow in one direction by connecting its positive and negative terminals appropriately.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Constructing and testing a simple switch",
+      "parent_concept": "Electric Switch",
+      "learning_goal": "To build a simple switch using common materials (drawing pins, safety pin) and use it to open and close an electric circuit, controlling a lamp.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Drawing circuit diagrams",
+      "parent_concept": "Circuit Diagram",
+      "learning_goal": "To practice representing real electrical circuits using standard symbols for components like cells, lamps, and switches.",
+      "activity_type": "model"
+    },
+    {
+      "activity_name": "Identifying conductors and insulators",
+      "parent_concept": "Conductor (Electrical)",
+      "learning_goal": "To use a simple circuit tester to test various materials and classify them as either electrical conductors (which allow the lamp to glow) or insulators (which do not).",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Exploring physical properties of materials",
+      "parent_concept": "Malleability",
+      "learning_goal": "To observe and compare the appearance, hardness, and effect of hammering on various metals and non-metals, leading to an understanding of malleability.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating sonority",
+      "parent_concept": "Sonority",
+      "learning_goal": "To compare the sounds produced by dropping metal and non-metal objects to understand the property of sonority.",
+      "activity_type": "observation"
+    },
+    {
+      "activity_name": "Investigating heat conduction",
+      "parent_concept": "Thermal Conduction",
+      "learning_goal": "To compare how quickly heat travels through a metal spoon versus a wooden spoon to demonstrate the difference in thermal conductivity.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing electrical conductivity",
+      "parent_concept": "Conductor (Electrical)",
+      "learning_goal": "To use a circuit tester to classify different materials as good or poor conductors of electricity.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating the conditions for rusting",
+      "parent_concept": "Rusting",
+      "learning_goal": "To design an experiment to show that both air (oxygen) and water are necessary for iron to rust.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing the nature of a metal oxide",
+      "parent_concept": "Metal Oxides",
+      "learning_goal": "To burn a magnesium ribbon to form magnesium oxide and test its solution with litmus paper to conclude that metal oxides are generally basic.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing the nature of a non-metal oxide",
+      "parent_concept": "Non-metal Oxides",
+      "learning_goal": "To burn sulfur to form sulfur dioxide, dissolve it in water, and test the solution with litmus paper to conclude that non-metal oxides are generally acidic.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Observing physical changes",
+      "parent_concept": "Physical Change",
+      "learning_goal": "To perform simple actions like folding paper, inflating a balloon, and crushing chalk to observe changes in physical properties where no new substance is formed.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Observing a chemical change with lime water",
+      "parent_concept": "Chemical Change",
+      "learning_goal": "To demonstrate a chemical change by blowing exhaled air into lime water and observing the formation of a new, milky substance (calcium carbonate).",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating the reaction of vinegar and baking soda",
+      "parent_concept": "Chemical Reaction",
+      "learning_goal": "To mix vinegar and baking soda to observe the production of a gas (carbon dioxide) that turns lime water milky, indicating a chemical reaction has occurred.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating the role of oxygen in combustion",
+      "parent_concept": "Combustion",
+      "learning_goal": "To demonstrate that oxygen is necessary for combustion by observing that a candle flame extinguishes when covered with a glass tumbler.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating ignition temperature",
+      "parent_concept": "Ignition Temperature",
+      "learning_goal": "To use a magnifying glass to focus sunlight on paper, demonstrating that a substance needs to be heated to its ignition temperature to start burning.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Classifying changes as reversible or irreversible",
+      "parent_concept": "Reversible Change",
+      "learning_goal": "To analyze a list of everyday changes and classify them as either reversible or irreversible.",
+      "activity_type": "discussion"
+    },
+    {
+      "activity_name": "Discussing changes during adolescence",
+      "parent_concept": "Adolescence",
+      "learning_goal": "To identify and discuss the common physical, social, and behavioral changes that occur among students as they transition through adolescence.",
+      "activity_type": "discussion"
+    },
+    {
+      "activity_name": "Listing nutritional needs for adolescents",
+      "parent_concept": "Nutritional Needs in Adolescence",
+      "learning_goal": "To identify healthy food sources, the nutrients they provide, and their functions in supporting growth and development during adolescence.",
+      "activity_type": "discussion"
+    },
+    {
+      "activity_name": "Observing heat transfer by conduction",
+      "parent_concept": "Conduction",
+      "learning_goal": "To observe that heat travels along a solid object from the hot end to the cold end by watching wax-mounted pins fall in sequence.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating rising hot air",
+      "parent_concept": "Convection",
+      "learning_goal": "To demonstrate that hot air is lighter than cool air and rises, causing movement, by observing the motion of a paper cup held over a candle.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Observing convection in liquids",
+      "parent_concept": "Convection",
+      "learning_goal": "To visualize convection currents in water by heating a beaker with a grain of potassium permanganate at the bottom and observing the movement of the colored water.",
+      "activity_type": "demonstration"
+    },
+    {
+      "activity_name": "Comparing heating of land and water",
+      "parent_concept": "Sea Breeze",
+      "learning_goal": "To understand the principle behind sea and land breezes by observing that soil heats up and cools down faster than water.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Comparing water seepage through different soils",
+      "parent_concept": "Infiltration",
+      "learning_goal": "To understand how different materials affect infiltration rates by comparing how quickly water passes through clay, sand, and gravel.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Constructing a simple water clock",
+      "parent_concept": "Time Measurement",
+      "learning_goal": "To build a basic time-measuring device using a plastic bottle and water, understanding the principle of using a regular process to mark time intervals.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Measuring the time period of a simple pendulum",
+      "parent_concept": "Time Period",
+      "learning_goal": "To construct a simple pendulum and measure the time it takes to complete a set number of oscillations, then calculate its time period.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Calculating the speed of trains",
+      "parent_concept": "Speed",
+      "learning_goal": "To apply the formula for speed by using a railway timetable to find the distance and time between stations and calculate the train's speed.",
+      "activity_type": "model"
+    },
+    {
+      "activity_name": "Investigating the action of saliva on starch",
+      "parent_concept": "Digestion",
+      "learning_goal": "To demonstrate that saliva begins the digestion of starch by comparing the reaction of iodine with boiled rice and chewed boiled rice.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Modeling the mechanism of breathing",
+      "parent_concept": "Breathing",
+      "learning_goal": "To understand the roles of the diaphragm and chest cavity in inhalation and exhalation by building and operating a simple model of the lungs.",
+      "activity_type": "model"
+    },
+    {
+      "activity_name": "Comparing inhaled and exhaled air",
+      "parent_concept": "Respiration",
+      "learning_goal": "To show that exhaled air contains more carbon dioxide than inhaled air by observing the difference in reaction when both are passed through lime water.",
+      "activity_type": "demonstration"
+    },
+    {
+      "activity_name": "Testing the role of sunlight and water in plant growth",
+      "parent_concept": "Photosynthesis",
+      "learning_goal": "To demonstrate that both sunlight and water are essential for a plant's growth by comparing the growth of saplings under different conditions.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing a leaf for starch",
+      "parent_concept": "Starch",
+      "learning_goal": "To perform an iodine test on a leaf to confirm the presence of starch, which indicates that food has been produced.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing the role of chlorophyll and sunlight in starch production",
+      "parent_concept": "Chlorophyll",
+      "learning_goal": "To infer that chlorophyll and sunlight are necessary for starch production by comparing the results of a starch test on green and non-green parts of leaves from plants kept in sunlight and in the dark.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing the role of carbon dioxide in photosynthesis",
+      "parent_concept": "Photosynthesis",
+      "learning_goal": "To demonstrate that carbon dioxide is essential for photosynthesis by showing that the part of a leaf deprived of CO2 does not produce starch.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Observing the release of oxygen during photosynthesis",
+      "parent_concept": "Photosynthesis",
+      "learning_goal": "To observe the production of gas bubbles from an aquatic plant in sunlight and infer that oxygen is released during photosynthesis.",
+      "activity_type": "observation"
+    },
+    {
+      "activity_name": "Examining stomata on a leaf peel",
+      "parent_concept": "Stomata",
+      "learning_goal": "To observe the tiny pores (stomata) on the surface of a leaf peel using a microscope.",
+      "activity_type": "observation"
+    },
+    {
+      "activity_name": "Observing water transport in plants",
+      "parent_concept": "Xylem",
+      "learning_goal": "To visualize the path of water transport (xylem) in a plant stem by placing a twig in colored water and observing the color rise into the stem, leaves, and flowers.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing for respiration in germinating seeds",
+      "parent_concept": "Respiration",
+      "learning_goal": "To demonstrate that germinating seeds respire by showing that they release carbon dioxide, which turns lime water milky.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating the rectilinear propagation of light",
+      "parent_concept": "Rectilinear Propagation of Light",
+      "learning_goal": "To demonstrate that light travels in a straight line by observing a light source through aligned holes or a straight pipe.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Testing light passage through different materials",
+      "parent_concept": "Opaque Material",
+      "learning_goal": "To classify materials as transparent, translucent, or opaque by observing whether light from a torch can pass through them to a screen.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Exploring shadow formation",
+      "parent_concept": "Shadow",
+      "learning_goal": "To understand the conditions required for shadow formation (light source, opaque object, screen) and how the shadow's properties change with the object's position.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Investigating reflection of light from a plane mirror",
+      "parent_concept": "Reflection of Light",
+      "learning_goal": "To observe that a shiny surface or plane mirror changes the direction of a light beam that falls on it.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Exploring images formed in a plane mirror",
+      "parent_concept": "Image Formation (by Plane Mirror)",
+      "learning_goal": "To investigate the characteristics of an image formed by a plane mirror, such as its size, orientation (erect), and distance from the mirror.",
+      "activity_type": "experiment"
+    },
+    {
+      "activity_name": "Constructing a pinhole camera",
+      "parent_concept": "Pinhole Camera",
+      "learning_goal": "To build a simple pinhole camera and observe that it forms an inverted image of an object on a screen.",
+      "activity_type": "hands-on"
+    },
+    {
+      "activity_name": "Exploring apparent motion due to rotation",
+      "parent_concept": "Rotation of Earth",
+      "learning_goal": "To understand that the apparent motion of surrounding objects is opposite to one's own rotation, using the analogy of a merry-go-round.",
+      "activity_type": "model"
+    },
+    {
+      "activity_name": "Modeling the cause of day and night",
+      "parent_concept": "Day and Night Cycle",
+      "learning_goal": "To demonstrate how the rotation of the Earth causes day and night by shining a torch (Sun) on a globe (Earth).",
+      "activity_type": "model"
+    },
+    {
+      "activity_name": "Observing the apparent motion of stars",
+      "parent_concept": "Rotation of Earth",
+      "learning_goal": "To observe and record the changing position of a constellation (like the Big Dipper) over several hours to conclude that stars appear to move due to Earth's rotation.",
+      "activity_type": "observation"
+    },
+    {
+      "activity_name": "Exploring apparent size",
+      "parent_concept": "Solar Eclipse",
+      "learning_goal": "To understand that an object's apparent size depends on both its actual size and its distance, explaining how the small Moon can block the large Sun.",
+      "activity_type": "observation"
+    },
+    {
+      "concept_name": "Heat Transfer",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The movement of thermal energy from a hotter object or region to a colder one. Heat can be transferred through three primary processes: conduction, convection, and radiation.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Conduction",
+        "Convection",
+        "Radiation"
+      ]
+    },
+    {
+      "concept_name": "Conduction",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer from the hotter part of an object to the colder part without the actual movement of particles. This is the primary mode of heat transfer in solids.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer",
+        "Conductor (Thermal)",
+        "Insulator (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Convection",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer in liquids and gases that occurs through the actual movement of heated particles. Warmer, less dense fluid rises, and cooler, denser fluid sinks, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer",
+        "Land Breeze",
+        "Sea Breeze"
+      ]
+    },
+    {
+      "concept_name": "Radiation",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "The process of heat transfer that does not require a medium and can travel through a vacuum. The Earth receives heat from the Sun through radiation.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Heat Transfer"
+      ]
+    },
+    {
+      "concept_name": "Conductor (Thermal)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A material that allows heat to pass through it easily. Metals are generally good conductors of heat.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Conduction",
+        "Insulator (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Insulator (Thermal)",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A material that does not allow heat to pass through it easily. Materials like wood, glass, air, and plastic are poor conductors or insulators of heat.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Conduction",
+        "Conductor (Thermal)"
+      ]
+    },
+    {
+      "concept_name": "Sea Breeze",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A local wind that blows from the sea towards the land during the day. It is caused by the land heating up faster than the sea, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Convection",
+        "Land Breeze"
+      ]
+    },
+    {
+      "concept_name": "Land Breeze",
+      "domain": "Physics (The Physical World)",
+      "strand": "Heat Transfer",
+      "brief_explanation": "A local wind that blows from the land towards the sea during the night. It is caused by the land cooling down faster than the sea, creating a convection current.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Convection",
+        "Sea Breeze"
+      ]
+    },
+    {
+      "concept_name": "Water Cycle",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "The continuous movement of water on, above, and below the surface of the Earth, involving processes like evaporation, condensation, precipitation, and infiltration.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Infiltration"
+      ]
+    },
+    {
+      "concept_name": "Infiltration",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "The process by which surface water seeps through soil and rocks to become groundwater.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Water Cycle",
+        "Groundwater"
+      ]
+    },
+    {
+      "concept_name": "Groundwater",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "Water that is stored in the pore spaces of sediments and openings in rocks beneath the Earth's surface.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Infiltration",
+        "Aquifer"
+      ]
+    },
+    {
+      "concept_name": "Aquifer",
+      "domain": "Earth & Space Science",
+      "strand": "Our Home (Earth)",
+      "brief_explanation": "An underground layer of water-bearing permeable rock, rock fractures or unconsolidated materials (gravel, sand, or silt) from which groundwater can be extracted.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Heat Transfer in Nature"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Groundwater"
+      ]
+    },
+    {
+      "concept_name": "Time Measurement",
+      "domain": "Earth & Space Science",
+      "strand": "Earth, Moon, and the Sun",
+      "brief_explanation": "The process of quantifying the duration between events, using natural cycles (like sunrise) or devices that exhibit periodic motion (like pendulums or quartz crystals).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Simple Pendulum",
+        "SI Unit of Time"
+      ]
+    },
+    {
+      "concept_name": "Simple Pendulum",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "A device consisting of a mass (bob) suspended from a fixed point by a string or rod, which swings back and forth under the influence of gravity. Its time period is constant for a given length.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Oscillatory Motion",
+        "Time Period"
+      ]
+    },
+    {
+      "concept_name": "Oscillatory Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "A type of periodic motion where an object moves back and forth repeatedly over the same path, such as the swinging of a pendulum.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Simple Pendulum",
+        "Time Period"
+      ]
+    },
+    {
+      "concept_name": "Time Period",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The time taken by a pendulum to complete one full oscillation. For a simple pendulum, this depends on its length but not its mass.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Simple Pendulum",
+        "Oscillatory Motion"
+      ]
+    },
+    {
+      "concept_name": "SI Unit of Time",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The standard international unit for measuring time is the second, with the symbol 's'. Larger units include the minute (min) and hour (h).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Time Measurement",
+        "Speed"
+      ]
+    },
+    {
+      "concept_name": "Speed",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The measure of how fast an object is moving, calculated as the total distance covered divided by the total time taken. The SI unit for speed is meters per second (m/s).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "apply",
+      "interconnections": [
+        "Average Speed",
+        "Uniform Motion",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Average Speed",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The total distance traveled by an object divided by the total time taken. This is used because objects often do not travel at a constant speed.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Uniform Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "Motion of an object along a straight line with a constant, unchanging speed. An object in uniform motion covers equal distances in equal intervals of time.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Non-uniform Motion",
+        "Linear Motion"
+      ]
+    },
+    {
+      "concept_name": "Non-uniform Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "Motion of an object along a straight line where its speed keeps changing. An object in non-uniform motion covers unequal distances in equal intervals of time.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Speed",
+        "Uniform Motion",
+        "Linear Motion"
+      ]
+    },
+    {
+      "concept_name": "Linear Motion",
+      "domain": "Physics (The Physical World)",
+      "strand": "Motion, Force & Pressure",
+      "brief_explanation": "The movement of an object along a straight line or path.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Measurement of Time and Motion"
+      ],
+      "concept_type": "phenomenon",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Uniform Motion",
+        "Non-uniform Motion"
+      ]
+    },
+    {
+      "concept_name": "Life Processes",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The essential biological processes that all living organisms perform to maintain life, such as nutrition, respiration, excretion, and reproduction.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Nutrition in Animals",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process by which animals obtain and utilize food to get energy for growth, repair, and other life functions. It involves ingestion, digestion, absorption, assimilation, and egestion.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Digestion",
+        "Absorption of Nutrients",
+        "Egestion"
+      ]
+    },
+    {
+      "concept_name": "Human Digestive System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The organ system responsible for breaking down food into nutrients. It consists of the alimentary canal (mouth, oesophagus, stomach, intestines) and associated glands (liver, pancreas).",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Alimentary Canal",
+        "Digestion"
+      ]
+    },
+    {
+      "concept_name": "Alimentary Canal",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The long, continuous tube in the digestive system through which food passes, starting from the mouth and ending at the anus.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Human Digestive System"
+      ]
+    },
+    {
+      "concept_name": "Digestion",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process of breaking down complex food components (like starch and proteins) into simpler, soluble forms that can be absorbed by the body.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Human Digestive System"
+      ]
+    },
+    {
+      "concept_name": "Absorption of Nutrients",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process where digested nutrients pass from the small intestine into the bloodstream to be transported to different parts of the body.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Nutrition in Animals",
+        "Circulatory System"
+      ]
+    },
+    {
+      "concept_name": "Egestion",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process of discharging undigested or waste material (stool) from the body through the anus.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Nutrition in Animals"
+      ]
+    },
+    {
+      "concept_name": "Ruminant",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "Grass-eating animals like cows and buffaloes that have a specialized digestive system allowing them to partially digest food, regurgitate it (cud), and chew it again.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "definition",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Rumination"
+      ]
+    },
+    {
+      "concept_name": "Rumination",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The process in ruminants where partially digested food is brought back from the stomach to the mouth for further chewing.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Ruminant"
+      ]
+    },
+    {
+      "concept_name": "Respiration",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "A chemical process occurring inside the body's cells where simple food substances like glucose are broken down using oxygen to release energy, water, and carbon dioxide.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Breathing",
+        "Human Respiratory System"
+      ]
+    },
+    {
+      "concept_name": "Breathing",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The physical process of inhaling air (rich in oxygen) into the lungs and exhaling air (rich in carbon dioxide) out of the lungs.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "process",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Respiration",
+        "Human Respiratory System"
+      ]
+    },
+    {
+      "concept_name": "Human Respiratory System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The network of organs and tissues that enable breathing, including the nostrils, windpipe, lungs, and diaphragm. It facilitates the exchange of oxygen and carbon dioxide.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Breathing",
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Gills",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "Specialized respiratory organs found in most aquatic animals, like fish, that allow them to breathe by extracting dissolved oxygen from water.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "remember",
+      "interconnections": [
+        "Respiration"
+      ]
+    },
+    {
+      "concept_name": "Circulatory System",
+      "domain": "Biology (The Living World)",
+      "strand": "Life Processes",
+      "brief_explanation": "The system responsible for transporting nutrients, oxygen, and other substances to all parts of the body and carrying away waste products. It includes the heart, blood, and blood vessels.",
+      "grade_levels": [
+        "7"
+      ],
+      "chapter_references": [
+        "Life Processes in Animals"
+      ],
+      "concept_type": "structure",
+      "cognitive_level": "understand",
+      "interconnections": [
+        "Absorption of Nutrients",
+        "Respiration"
+      ]
+    }
+  ]
+}

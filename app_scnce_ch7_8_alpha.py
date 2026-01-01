@@ -249,31 +249,19 @@ if isinstance(clicked, str) and clicked.startswith("concept::"):
     st.session_state.selected_concept = clicked.replace("concept::", "")
 
 # ==================================================
-# Define selected_concept
-# ==================================================
-
-selected_concept = None
-
-if "selected_concept" in st.session_state:
-    name = st.session_state.selected_concept
-    if name and name in concept_map:
-        selected_concept = concept_map[name]
-
-# ==================================================
 # Sidebar — Concept + Activities
 # ==================================================
-if selected_concept:
-    st.sidebar.markdown(f"### {selected_concept['concept_name']}")
+st.sidebar.markdown("## 🔍 Concept Details")
+
+if st.session_state.selected_concept:
+    concept = concept_map[st.session_state.selected_concept]
+
+    st.sidebar.markdown(f"### {concept['concept_name']}")
 
     with st.sidebar.expander("📘 Concept Info"):
-        st.write(selected_concept["brief_explanation"])
-
-        st.write("**Chapter(s):**")
-        for ch in selected_concept["chapter_references"]:
-            st.markdown(f"- {ch}")
-
-        st.write("**Concept Type:**", selected_concept["concept_type"])
-        st.write("**Cognitive Level:**", selected_concept["cognitive_level"])
+        st.write(concept.get("brief_explanation", "—"))
+        st.write("**Concept Type:**", concept.get("concept_type", "—"))
+        st.write("**Cognitive Level:**", concept.get("cognitive_level", "—"))
 
     linked_acts = [a for a in activities if a.get("parent_concept") == concept["concept_name"]]
 
@@ -322,9 +310,6 @@ if st.session_state.selected_concept:
         st.sidebar.write(answer)
 else:
     st.sidebar.info("Select a concept to use AI assistance.")
-
-
-
 
 
 

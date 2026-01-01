@@ -258,10 +258,20 @@ if st.session_state.selected_concept:
 
     st.sidebar.markdown(f"### {concept['concept_name']}")
 
-    with st.sidebar.expander("📘 Concept Info"):
-        st.write(concept.get("brief_explanation", "—"))
-        st.write("**Concept Type:**", concept.get("concept_type", "—"))
-        st.write("**Cognitive Level:**", concept.get("cognitive_level", "—"))
+with st.sidebar.expander("📘 Concept Info"):
+    st.write(concept.get("brief_explanation", "—"))
+
+    chapters = concept.get("chapter_references", [])
+    if chapters:
+        st.write("**Chapter(s):**")
+        for ch in chapters:
+            st.markdown(f"- {ch}")
+    else:
+        st.write("**Chapter(s):** —")
+
+    st.write("**Concept Type:**", concept.get("concept_type", "—"))
+    st.write("**Cognitive Level:**", concept.get("cognitive_level", "—"))
+
 
     linked_acts = [a for a in activities if a.get("parent_concept") == concept["concept_name"]]
 
@@ -310,6 +320,7 @@ if st.session_state.selected_concept:
         st.sidebar.write(answer)
 else:
     st.sidebar.info("Select a concept to use AI assistance.")
+
 
 
 
